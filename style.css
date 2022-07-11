@@ -1,0 +1,13 @@
+.copyright{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(162, 163, 163);
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    padding: 17px;
+}
+#canvas{
+    box-shadow: rgb(255, 0, 0) 5 5;
+    margin: 5px ridge rgb(128, 128, 128);
+}
